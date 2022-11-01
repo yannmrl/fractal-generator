@@ -8,3 +8,7 @@
  # Usage:
  
   `./fgen <side of square image> <number of iterations> <power p of z in the sequence z^p+c defining the Julia Set (usually 2)> <Re(c)> <Im(c)>`
+
+# Exemple:
+
+![alt text](http://url)
