@@ -11,4 +11,9 @@
 
 # Exemple:
 
-![b](https://user-images.githubusercontent.com/82156580/199240102-44bed839-d8dd-4dab-815a-52be75a34afb.png
+![f_upload](https://user-images.githubusercontent.com/82156580/199241403-dadf4aa7-ba93-48f2-8199-4965bf924500.png)
+
+ This one is given by 
+  `./fgen 400 400 1 .355534 -.337292`
+  
+ (and yes this is where I took my profile picture ;)
