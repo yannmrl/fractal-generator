@@ -15,5 +15,3 @@
 
  This one is given by 
   `./fgen 400 400 1 .355534 -.337292`
-  
- (and yes this is where I took my profile picture ;)
